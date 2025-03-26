@@ -1,0 +1,117 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="Views\Home\Index.cshtml" />
+    <None Include="Views\Home\Privacy.cshtml" />
+    <None Include="Views\Shared\Error.cshtml" />
+    <None Include="Views\Shared\_Layout.cshtml" />
+    <None Include="Views\Shared\_ValidationScriptsPartial.cshtml" />
+    <None Include="wwwroot\fonts\glyphicons-halflings-regular.svg" />
+    <None Include="wwwroot\fonts\glyphicons-halflings-regular.woff2" />
+    <None Include="wwwroot\js\bootstrap.min.js" />
+    <None Include="wwwroot\js\jquery.min.js" />
+    <None Include="wwwroot\js\site.js" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.js" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.js.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.min.js" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map" />
+    <None Include="wwwroot\lib\bootstrap\LICENSE" />
+    <None Include="wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js" />
+    <None Include="wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js" />
+    <None Include="wwwroot\lib\jquery-validation\dist\additional-methods.js" />
+    <None Include="wwwroot\lib\jquery-validation\dist\additional-methods.min.js" />
+    <None Include="wwwroot\lib\jquery-validation\dist\jquery.validate.js" />
+    <None Include="wwwroot\lib\jquery-validation\dist\jquery.validate.min.js" />
+    <None Include="wwwroot\lib\jquery-validation\LICENSE.md" />
+    <None Include="wwwroot\lib\jquery\dist\jquery.js" />
+    <None Include="wwwroot\lib\jquery\dist\jquery.min.js" />
+    <None Include="wwwroot\lib\jquery\dist\jquery.min.map" />
+    <None Include="wwwroot\vendor\font-awesome\css\font-awesome.css.map" />
+    <None Include="wwwroot\vendor\font-awesome\fonts\fontawesome-webfont.svg" />
+    <None Include="wwwroot\vendor\font-awesome\fonts\fontawesome-webfont.woff2" />
+    <None Include="wwwroot\vendor\font-awesome\less\animated.less" />
+    <None Include="wwwroot\vendor\font-awesome\less\bordered-pulled.less" />
+    <None Include="wwwroot\vendor\font-awesome\less\core.less" />
+    <None Include="wwwroot\vendor\font-awesome\less\extras.less" />
+    <None Include="wwwroot\vendor\font-awesome\less\fixed-width.less" />
+    <None Include="wwwroot\vendor\font-awesome\less\font-awesome.less" />
+    <None Include="wwwroot\vendor\font-awesome\less\icons.less" />
+    <None Include="wwwroot\vendor\font-awesome\less\larger.less" />
+    <None Include="wwwroot\vendor\font-awesome\less\list.less" />
+    <None Include="wwwroot\vendor\font-awesome\less\mixins.less" />
+    <None Include="wwwroot\vendor\font-awesome\less\path.less" />
+    <None Include="wwwroot\vendor\font-awesome\less\rotated-flipped.less" />
+    <None Include="wwwroot\vendor\font-awesome\less\screen-reader.less" />
+    <None Include="wwwroot\vendor\font-awesome\less\spinning.less" />
+    <None Include="wwwroot\vendor\font-awesome\less\stacked.less" />
+    <None Include="wwwroot\vendor\font-awesome\less\variables.less" />
+    <None Include="wwwroot\vendor\font-awesome\scss\font-awesome.scss" />
+    <None Include="wwwroot\vendor\font-awesome\scss\_animated.scss" />
+    <None Include="wwwroot\vendor\font-awesome\scss\_bordered-pulled.scss" />
+    <None Include="wwwroot\vendor\font-awesome\scss\_core.scss" />
+    <None Include="wwwroot\vendor\font-awesome\scss\_extras.scss" />
+    <None Include="wwwroot\vendor\font-awesome\scss\_fixed-width.scss" />
+    <None Include="wwwroot\vendor\font-awesome\scss\_icons.scss" />
+    <None Include="wwwroot\vendor\font-awesome\scss\_larger.scss" />
+    <None Include="wwwroot\vendor\font-awesome\scss\_list.scss" />
+    <None Include="wwwroot\vendor\font-awesome\scss\_mixins.scss" />
+    <None Include="wwwroot\vendor\font-awesome\scss\_path.scss" />
+    <None Include="wwwroot\vendor\font-awesome\scss\_rotated-flipped.scss" />
+    <None Include="wwwroot\vendor\font-awesome\scss\_screen-reader.scss" />
+    <None Include="wwwroot\vendor\font-awesome\scss\_spinning.scss" />
+    <None Include="wwwroot\vendor\font-awesome\scss\_stacked.scss" />
+    <None Include="wwwroot\vendor\font-awesome\scss\_variables.scss" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.Facebook" Version="8.0.5" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.Google" Version="8.0.5" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.OAuth" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.4" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="8.0.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="8.0.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.4">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas\Admin\Controllers\" />
+    <Folder Include="wwwroot\images\Room\" />
+  </ItemGroup>
+
+</Project>

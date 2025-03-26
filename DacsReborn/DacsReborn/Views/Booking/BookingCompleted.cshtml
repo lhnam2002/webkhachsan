@@ -1,0 +1,6 @@
+﻿@model DacsReborn.Models.Booking
+
+<h2>Booking successful, thank you for choosing our Reborn hotel. Hope to see you again at the earliest date</h2>
+<p>Your booking with ID @Model.BkId has been placed successfully.</p>
+<h2>Total Price: @Model.TotalPrice.ToString("C")</h2> 
+<a asp-action="Index">Back to List</a>

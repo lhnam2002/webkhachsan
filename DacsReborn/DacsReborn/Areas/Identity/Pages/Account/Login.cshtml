@@ -1,0 +1,90 @@
+﻿@page
+@model LoginModel
+
+@{
+    ViewData["Title"] = "Đăng Nhập";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6 col-lg-5">
+            <div class="card shadow-sm">
+                <div class="card-body p-5">
+                    <h2 class="card-title text-center mb-4">@ViewData["Title"]</h2>
+                    <section>
+                        <form id="account" method="post">
+                            <h4 class="mb-4">Đăng nhập bằng tài khoản đã đăng kí</h4>
+                            <div asp-validation-summary="All" class="text-danger mb-3"></div>
+                            <div class="form-group mb-3">
+                                <label asp-for="Input.Email" class="form-label"></label>
+                                <input asp-for="Input.Email" class="form-control" />
+                                <span asp-validation-for="Input.Email" class="text-danger"></span>
+                            </div>
+                            <div class="form-group mb-3">
+                                <label asp-for="Input.Password" class="form-label"></label>
+                                <input asp-for="Input.Password" class="form-control" />
+                                <span asp-validation-for="Input.Password" class="text-danger"></span>
+                            </div>
+                            <div class="form-group form-check mb-4">
+                                <input asp-for="Input.RememberMe" class="form-check-input" />
+                                <label asp-for="Input.RememberMe" class="form-check-label">
+                                    @Html.DisplayNameFor(m => m.Input.RememberMe)
+                                </label>
+                            </div>
+                            <div class="form-group mb-4">
+                                <button id="login-submit" type="submit" class="btn btn-primary w-100">ĐĂNG NHẬP</button>
+                            </div>
+                            <div class="form-group text-center">
+                                <p>
+                                    <a id="forgot-password" asp-page="./ForgotPassword">Quên Mật Khẩu</a>
+                                </p>
+                                <p>
+                                    <a asp-page="./Register" asp-route-returnUrl="@Model.ReturnUrl">Đăng kí tài khoản mới</a>
+                                </p>
+                                <p>
+                                    <a id="resend-confirmation" asp-page="./ResendEmailConfirmation">Xác thực Email</a>
+                                </p>
+                            </div>
+                        </form>
+                    </section>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row justify-content-center mt-4">
+        <div class="col-md-6 col-lg-5">
+            <div class="card shadow-sm">
+                <div class="card-body p-5">
+                    <h4 class="card-title text-center mb-4">Hoặc đăng nhập bằng</h4>
+                    <section>
+                        @{
+                            if ((Model.ExternalLogins?.Count ?? 0) == 0)
+                            {
+                                <div class="text-center">
+                                    <p>Không có phương thức đăng nhập bên ngoài nào được cấu hình.</p>
+                                </div>
+                            }
+                            else
+                            {
+                                <form id="external-account" asp-page="./ExternalLogin" asp-route-returnUrl="@Model.ReturnUrl" method="post">
+                                    <div class="d-grid gap-2">
+                                        @foreach (var provider in Model.ExternalLogins)
+                                        {
+                                            <button type="submit" class="btn btn-outline-secondary my-2" name="provider" value="@provider.Name" title="Log in using your @provider.DisplayName account">
+                                                Đăng nhập bằng @provider.DisplayName
+                                            </button>
+                                        }
+                                    </div>
+                                </form>
+                            }
+                        }
+                    </section>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

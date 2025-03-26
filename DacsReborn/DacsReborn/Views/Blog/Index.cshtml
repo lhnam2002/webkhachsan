@@ -1,0 +1,148 @@
+﻿
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Khách sạn ABC</title>
+    <style>
+        body {
+            transition: background 0.00001s;
+            width: 100vw;
+            height: 100vh;
+            cursor: pointer;
+            background-image: url('https://static.vecteezy.com/system/resources/previews/026/344/537/large_2x/modern-corporate-reflection-reflective-lobby-in-the-office-contemporary-architecture-in-a-business-center-ai-generative-free-photo.jpg');
+            background-size: auto;
+            background-position: center;
+        }
+
+        .hotel-container {
+            border: 2px solid #0000006e;
+            border-radius: 10px;
+            overflow: hidden;
+            display: flex;
+            margin: 20px;
+            background-color: #f2f2f296;
+        }
+
+        .hotel-introduction .left-image img {
+            float: left; /* Đặt hình ảnh sang bên trái */
+            width: 300px; /* Chiều rộng của hình ảnh */
+            height: auto;
+            margin-right: 40px; /* Khoảng cách giữa hình ảnh và nội dung */
+            transition: transform 0.3s ease; /* Hiệu ứng hover */
+        }
+
+        .hotel-introduction .left-image img:hover {
+            transform: scale(1.1); /* Phóng to hình ảnh khi hover */
+        }
+
+        .hotel-introduction {
+            position: relative; /* Thiết lập vị trí tương đối */
+        }
+        h1 {
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            font-style: italic;
+        }
+        p{
+            margin:10px;
+            text-align: justify;
+            color: black;
+            font-size: larger;
+        }
+
+        .expand-button {
+            position: absolute;
+            bottom: 5px;
+            right: 8px;
+            padding: 8px;
+            background-color: #060f14a6;
+            color: #fff1f1;
+            cursor: pointer;
+            border-radius: 10px;
+            transition: background-color 0.3s ease; /* Hiệu ứng hover */
+        }
+
+            .expand-button:hover {
+                background-color: #2980b9; /* Thay đổi màu nền khi hover */
+            }
+/* 
+        .hotel-introduction .description {
+            max-width: 50%;
+            padding: 40px; /* Khoảng trống giữa hình ảnh và nội dung */
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+        } */
+    </style>
+</head>
+<body>
+
+    <div class="hotel-container">
+        <div class="hotel-introduction">
+            <div class="left-image">
+                <img src="https://hoangminhdecor.com/wp-content/uploads/2020/05/mau-sanh-khach-san-dep.jpg" alt="Ảnh bên trái của khách sạn">
+            </div>
+            <div class="description">
+                <h1>Khám Phá Khách Sạn REBORN</h1>
+                <p>
+                    Khi nói đến những trải nghiệm du lịch đầy ấn tượng, Đà Nẵng luôn nổi tiếng với vẻ đẹp tự nhiên hùng vĩ cùng nền văn hóa đa dạng. Và để tận hưởng một kỳ nghỉ hoàn hảo tại thành phố này, sự lựa chọn về nơi lưu trú cũng đóng vai trò quan trọng. Trong danh sách các khách sạn cao cấp và thuộc dạng bình dân tại Đà Nẵng, không thể không kể đến Reborn - một điểm đến lý tưởng cho cả những du khách khao khát sự sang trọng và những ai đang tìm kiếm sự tiết kiệm.
+
+                    Vị trí của Reborn chính là điểm nhấn đầu tiên khiến du khách bất ngờ. Khách sạn nằm ở vị trí trung tâm của thành phố Đà Nẵng, chỉ cách sân bay quốc tế Đà Nẵng và bãi biển Mỹ Khê - một trong những bãi biển đẹp nhất thế giới - chỉ vài phút đi bộ. Điều này không chỉ thuận tiện cho việc di chuyển mà còn mang lại cho du khách cơ hội khám phá những địa điểm du lịch nổi tiếng một cách dễ dàng.
+
+                    Bước vào Reborn, du khách sẽ được chìm đắm trong không gian sang trọng và ấm cúng. Từ thiết kế nội thất đến dịch vụ chăm sóc khách hàng, mọi thứ đều được chú trọng để mang lại cảm giác thoải mái và hài lòng nhất cho khách hàng. Phòng nghỉ tại đây được trang bị đầy đủ tiện nghi hiện đại, từ các loại giường thoải mái đến các tiện ích như TV màn hình phẳng, minibar và két an toàn.
+
+                    Không chỉ dừng lại ở việc cung cấp những tiện ích tốt nhất cho khách hàng, Reborn còn tự hào về đội ngũ nhân viên chuyên nghiệp và thân thiện. Với lòng nhiệt tình và sự am hiểu về nhu cầu của khách hàng, họ luôn sẵn sàng phục vụ và giúp đỡ du khách trong mọi tình huống. Điều này tạo ra một không gian giao tiếp tự nhiên và thân thiện, giúp du khách cảm thấy như đang ở nhà.
+
+                    Một điểm đặc biệt khác của Reborn chính là sự đa dạng trong các dịch vụ và tiện ích. Tại đây, du khách có thể thỏa sức thư giãn và giải trí với các dịch vụ như spa, phòng tập gym, hồ bơi ngoài trời và nhà hàng phục vụ đa dạng các món ăn ngon. Không chỉ dành cho du khách du lịch, Reborn cũng là lựa chọn lý tưởng cho những chuyến công tác, với các phòng họp tiện nghi và kết nối internet tốc độ cao.
+
+                    Ngoài ra, Reborn cũng là một điểm đến lí tưởng cho các sự kiện đặc biệt như đám cưới, tiệc sinh nhật hay hội nghị doanh nghiệp. Với không gian rộng lớn và dịch vụ chuyên nghiệp, mọi sự kiện tại đây đều được tổ chức một cách suôn sẻ và thành công.
+
+                    Trong tổng thể, Reborn không chỉ là một khách sạn thông thường mà còn là điểm đến lý tưởng cho những ai muốn trải nghiệm sự hòa quện giữa sang trọng và bình dân tại thành phố Đà Nẵng. Với vị trí đắc địa, dịch vụ chuyên nghiệp và không gian ấm áp, Reborn hứa hẹn sẽ mang lại cho du khách những trải nghiệm đáng nhớ và tuyệt vời nhất trong chuyến du hành của họ.
+                </p>
+            </div>
+            <div class="expand-button" onclick="expandDescription(this)">Xem thêm</div>
+        </div>
+    </div>
+
+    <div class="hotel-container">
+        <div class="hotel-introduction">
+            <div class="left-image">
+                <a href="https://banahills.sunworld.vn/"><img src="https://pvhttnt.vn/wp-content/uploads/2022/11/anh-ba-na-hills-2.jpg" alt="Ảnh bên trái của khách sạn"></a>
+            </div>
+            <div class="description">
+                <h1>Khám Phá Địa Điểm Du Lịch Tại Đà Nẵng : KDL Bà Nà Hills </h1>
+                <p>Bà Nà Hills - Thiên đường nghỉ dưỡng ẩn mình trên dãy núi Ba Na, Đà Nẵng. Với khung cảnh thiên nhiên tuyệt đẹp và các hoạt động giải trí đa dạng, Bà Nà Hills hứa hẹn mang đến trải nghiệm du lịch đáng nhớ cho mọi du khách.</p>
+            </div>
+            <a href="https://banahills.sunworld.vn/" class="expand-button">Xem thêm</a>
+        </div>
+    </div>
+    <div class="hotel-container">
+        <div class="hotel-introduction">
+            <div class="left-image">
+                <a href="https://helio.vn/vi/news/19-dia-diem-an-uong-da-nang-can-phai-biet.html"><img src="https://static.vinwonders.com/production/quan-com-ngon-da-nang-3.jpg" alt="Ảnh bên trái của khách sạn"></a>
+            </div>
+            <div class="description">
+                <h1> Khám Phá Thiên Đường Ẩm Thực Tại Đà Nẵng </h1>
+                <p>Đà Nẵng không chỉ nổi tiếng với cảnh đẹp thiên nhiên mà còn là thiên đường ẩm thực của Việt Nam. Với hương vị đặc trưng và đa dạng từ các món ăn đường phố đến nhà hàng cao cấp, du khách sẽ trải nghiệm một cuộc phiêu lưu ẩm thực không thể quên tại thành phố này..</p>
+            </div>
+            <a href="https://helio.vn/vi/news/19-dia-diem-an-uong-da-nang-can-phai-biet.html" class="expand-button">Xem thêm</a>
+        </div>
+    </div>
+    <script>
+    function expandDescription(button) {
+        var description = button.parentNode.querySelector(".description");
+        if (description.classList.contains("expanded")) {
+            description.style.height = "200px"; // Chiều cao mặc định khi thu gọn
+            button.textContent = "Xem thêm";
+            description.classList.remove("expanded");
+        } else {
+            var fullHeight = description.scrollHeight; // Chiều cao toàn bộ nội dung
+            description.style.height = fullHeight + "px";
+            button.textContent = "Thu gọn";
+            description.classList.add("expanded");
+        }
+    }
+</script>
+</body>
+</html>
+

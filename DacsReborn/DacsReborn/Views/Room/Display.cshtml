@@ -1,0 +1,102 @@
+﻿@model DacsReborn.Models.Room
+
+@{
+    ViewData["Title"] = "Display";
+}
+
+<h1>Chi tiết phòng</h1>
+
+<div class="room-details-container">
+    <div class="image-section">
+        <img src="@Model.ImageUrl" class="main-image" id="mainImage" alt="Main Image" />
+        <div class="small-images">
+            @if (Model.Image1 != null)
+            {
+                <img src="@Model.Image1" class="small-image" alt="Image 1" onclick="swapImage('@Model.Image1')" />
+            }
+            @if (Model.Image2 != null)
+            {
+                <img src="@Model.Image2" class="small-image" alt="Image 2" onclick="swapImage('@Model.Image2')" />
+            }
+        </div>
+    </div>
+    <div class="info-section">
+        <dl class="row">
+            <dt class="col-sm-4">
+                @Html.DisplayNameFor(model => model.Name)
+            </dt>
+            <dd class="col-sm-8">
+                @Html.DisplayFor(model => model.Name)
+            </dd>
+            <dt class="col-sm-4">
+                @Html.DisplayNameFor(model => model.Price)
+            </dt>
+            <dd class="col-sm-8">
+                @Html.DisplayFor(model => model.Price)
+            </dd>
+            <dt class="col-sm-4">
+                @Html.DisplayNameFor(model => model.Description)
+            </dt>
+            <dd class="col-sm-8">
+                @Html.DisplayFor(model => model.Description)
+            </dd>
+            <dt class="col-sm-4">
+                @Html.DisplayNameFor(model => model.CategoryId)
+            </dt>
+            <dd class="col-sm-8">
+                @ViewBag.Category
+            </dd>
+            <dt class="col-sm-2">
+                Tiện nghi
+            </dt>
+
+            <dd class="col-sm-8">
+                <button class="btn btn-outline-danger ">
+                    <i class="bi bi-wifi"> Wifi 6 tốc độ cao</i>
+                </button>
+                <button class="btn btn-outline-danger ">
+                    <i class="bi bi-tv">TV HD 60 inch có Netflix</i>
+                </button>
+                <button class="btn btn-outline-danger ">
+                    <i class="bi bi-car-front-fill"> Chỗ đỗ xe miễn phí</i>
+                </button>
+                <button class="btn btn-outline-danger ">
+                    <i class="bi bi-lamp-fill"> Đèn ngủ</i>
+                </button>
+                <button class="btn btn-outline-danger ">
+                    <i class="bi bi-snow"> Máy điều hòa không khí</i>
+                </button>
+                <button class="btn btn-outline-danger ">
+                    <i class="bi bi-cup-hot-fill"> Máy pha cafe</i>
+                </button>
+                <button class="btn btn-outline-danger ">
+                    <i class="bi bi-bandaid"> Tủ y tế</i>
+                </button>
+                <button class="btn btn-outline-danger ">
+                    <i class="bi bi-trash"> Dịch vụ vệ sinh phòng</i>
+                </button>
+                <button class="btn btn-outline-danger ">
+                    <i class="bi bi-controller"> Giải trí</i>
+                </button>
+                <button class="btn btn-outline-danger ">
+                    <i class="bi bi-egg-fried"> Được dùng điểm tâm sáng</i>
+                </button>
+
+            </dd>
+        </dl>
+        <button onclick="addToFavorites(@Model.RoomId)" class="bi bi-bag-heart">  Thêm vào danh sách yêu thích</button>
+    </div>
+</div>
+
+<div>
+    @* <a asp-action="Update" asp-route-id="@Model?.RoomId">Edit</a> | *@
+    <a asp-action="Index">Trở về danh sách</a>
+</div>
+
+@section Scripts {
+    <script>
+        function swapImage(imageUrl) {
+            document.getElementById('mainImage').src = imageUrl;
+        }
+    </script>
+}

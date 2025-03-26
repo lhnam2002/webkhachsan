@@ -1,0 +1,641 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|e:\\doancoso\\dacsreborn\\filesuadk\\dacsreborn\\dacsreborn\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|solutionrelative:dacsreborn\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|e:\\doancoso\\dacsreborn\\filesuadk\\dacsreborn\\dacsreborn\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|solutionrelative:dacsreborn\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|e:\\doancoso\\dacsreborn\\filesuadk\\dacsreborn\\dacsreborn\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|solutionrelative:dacsreborn\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|e:\\doancoso\\dacsreborn\\filesuadk\\dacsreborn\\dacsreborn\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|solutionrelative:dacsreborn\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|e:\\doancoso\\dacsreborn\\filesuadk\\dacsreborn\\dacsreborn\\views\\booking\\bookingcompleted.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|solutionrelative:dacsreborn\\views\\booking\\bookingcompleted.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|e:\\doancoso\\dacsreborn\\filesuadk\\dacsreborn\\dacsreborn\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|solutionrelative:dacsreborn\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|e:\\doancoso\\dacsreborn\\filesuadk\\dacsreborn\\dacsreborn\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|solutionrelative:dacsreborn\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|e:\\doancoso\\dacsreborn\\filesuadk\\dacsreborn\\dacsreborn\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|solutionrelative:dacsreborn\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|e:\\doancoso\\dacsreborn\\filesuadk\\dacsreborn\\dacsreborn\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|solutionrelative:dacsreborn\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|e:\\doancoso\\dacsreborn\\filesuadk\\dacsreborn\\dacsreborn\\views\\room\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|solutionrelative:dacsreborn\\views\\room\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|e:\\doancoso\\dacsreborn\\filesuadk\\dacsreborn\\dacsreborn\\views\\room\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|solutionrelative:dacsreborn\\views\\room\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|e:\\doancoso\\dacsreborn\\filesuadk\\dacsreborn\\dacsreborn\\views\\room\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|solutionrelative:dacsreborn\\views\\room\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|e:\\doancoso\\dacsreborn\\filesuadk\\dacsreborn\\dacsreborn\\views\\room\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|solutionrelative:dacsreborn\\views\\room\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|e:\\doancoso\\dacsreborn\\filesuadk\\dacsreborn\\dacsreborn\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|solutionrelative:dacsreborn\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|e:\\doancoso\\dacsreborn\\filesuadk\\dacsreborn\\dacsreborn\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|solutionrelative:dacsreborn\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|e:\\doancoso\\dacsreborn\\filesuadk\\dacsreborn\\dacsreborn\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|solutionrelative:dacsreborn\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|e:\\doancoso\\dacsreborn\\filesuadk\\dacsreborn\\dacsreborn\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|solutionrelative:dacsreborn\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|e:\\doancoso\\dacsreborn\\filesuadk\\dacsreborn\\dacsreborn\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|solutionrelative:dacsreborn\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|e:\\doancoso\\dacsreborn\\filesuadk\\dacsreborn\\dacsreborn\\views\\category\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|solutionrelative:dacsreborn\\views\\category\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|e:\\doancoso\\dacsreborn\\filesuadk\\dacsreborn\\dacsreborn\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|solutionrelative:dacsreborn\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|e:\\doancoso\\dacsreborn\\filesuadk\\dacsreborn\\dacsreborn\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|solutionrelative:dacsreborn\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|e:\\doancoso\\dacsreborn\\filesuadk\\dacsreborn\\dacsreborn\\views\\category\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|solutionrelative:dacsreborn\\views\\category\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|e:\\doancoso\\dacsreborn\\filesuadk\\dacsreborn\\dacsreborn\\models\\bookingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|solutionrelative:dacsreborn\\models\\bookingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|e:\\doancoso\\dacsreborn\\filesuadk\\dacsreborn\\dacsreborn\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|solutionrelative:dacsreborn\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|e:\\doancoso\\dacsreborn\\filesuadk\\dacsreborn\\dacsreborn\\models\\bookingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|solutionrelative:dacsreborn\\models\\bookingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|e:\\doancoso\\dacsreborn\\filesuadk\\dacsreborn\\dacsreborn\\views\\favorite\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|solutionrelative:dacsreborn\\views\\favorite\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|e:\\doancoso\\dacsreborn\\filesuadk\\dacsreborn\\dacsreborn\\views\\room\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|solutionrelative:dacsreborn\\views\\room\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|e:\\doancoso\\dacsreborn\\filesuadk\\dacsreborn\\dacsreborn\\views\\booking\\paymentfailed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|solutionrelative:dacsreborn\\views\\booking\\paymentfailed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|e:\\doancoso\\dacsreborn\\filesuadk\\dacsreborn\\dacsreborn\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|solutionrelative:dacsreborn\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|e:\\doancoso\\dacsreborn\\filesuadk\\dacsreborn\\dacsreborn\\models\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|solutionrelative:dacsreborn\\models\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|e:\\doancoso\\dacsreborn\\filesuadk\\dacsreborn\\dacsreborn\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|solutionrelative:dacsreborn\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|e:\\doancoso\\dacsreborn\\filesuadk\\dacsreborn\\dacsreborn\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|solutionrelative:dacsreborn\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|e:\\doancoso\\dacsreborn\\filesuadk\\dacsreborn\\dacsreborn\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|solutionrelative:dacsreborn\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|e:\\doancoso\\dacsreborn\\filesuadk\\dacsreborn\\dacsreborn\\repository\\efroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|solutionrelative:dacsreborn\\repository\\efroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|e:\\doancoso\\dacsreborn\\filesuadk\\dacsreborn\\dacsreborn\\repository\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|solutionrelative:dacsreborn\\repository\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|e:\\doancoso\\dacsreborn\\filesuadk\\dacsreborn\\dacsreborn\\areas\\admin\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|solutionrelative:dacsreborn\\areas\\admin\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|e:\\doancoso\\dacsreborn\\filesuadk\\dacsreborn\\dacsreborn\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|solutionrelative:dacsreborn\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|e:\\doancoso\\dacsreborn\\filesuadk\\dacsreborn\\dacsreborn\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18762251-0618-4324-81CB-54226AE58EC6}|DacsReborn\\DacsReborn.csproj|solutionrelative:dacsreborn\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookingCompleted.cshtml",
+              "DocumentMoniker": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Views\\Booking\\BookingCompleted.cshtml",
+              "RelativeDocumentMoniker": "DacsReborn\\Views\\Booking\\BookingCompleted.cshtml",
+              "ToolTip": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Views\\Booking\\BookingCompleted.cshtml",
+              "RelativeToolTip": "DacsReborn\\Views\\Booking\\BookingCompleted.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T14:37:57.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DacsReborn\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DacsReborn\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T07:28:48.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "DacsReborn\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "DacsReborn\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T15:43:01.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "DacsReborn\\Controllers\\BookingController.cs",
+              "ToolTip": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "DacsReborn\\Controllers\\BookingController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:22:13.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\appsettings.json",
+              "RelativeDocumentMoniker": "DacsReborn\\appsettings.json",
+              "ToolTip": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\appsettings.json",
+              "RelativeToolTip": "DacsReborn\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-26T12:02:48.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "DacsReborn\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "DacsReborn\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAIAwwEoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T04:21:53.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Views\\Booking\\Index.cshtml",
+              "RelativeDocumentMoniker": "DacsReborn\\Views\\Booking\\Index.cshtml",
+              "ToolTip": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Views\\Booking\\Index.cshtml",
+              "RelativeToolTip": "DacsReborn\\Views\\Booking\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG4AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T12:22:32.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "DacsReborn\\Controllers\\RoomController.cs",
+              "ToolTip": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "DacsReborn\\Controllers\\RoomController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T13:08:32.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "DacsReborn\\Controllers\\BlogController.cs",
+              "ToolTip": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "DacsReborn\\Controllers\\BlogController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T09:55:28.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Views\\Room\\Update.cshtml",
+              "RelativeDocumentMoniker": "DacsReborn\\Views\\Room\\Update.cshtml",
+              "ToolTip": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Views\\Room\\Update.cshtml",
+              "RelativeToolTip": "DacsReborn\\Views\\Room\\Update.cshtml",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAkwHEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T09:31:58.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Views\\Room\\Display.cshtml",
+              "RelativeDocumentMoniker": "DacsReborn\\Views\\Room\\Display.cshtml",
+              "ToolTip": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Views\\Room\\Display.cshtml",
+              "RelativeToolTip": "DacsReborn\\Views\\Room\\Display.cshtml",
+              "ViewState": "AQIAAFoAAAAAAAAAAIBZwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T09:35:02.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Views\\Room\\Add.cshtml",
+              "RelativeDocumentMoniker": "DacsReborn\\Views\\Room\\Add.cshtml",
+              "ToolTip": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Views\\Room\\Add.cshtml",
+              "RelativeToolTip": "DacsReborn\\Views\\Room\\Add.cshtml",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAUwG0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T13:29:38.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "DacsReborn\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "DacsReborn\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T10:05:48.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "DacsReborn\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "DacsReborn\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAArwEAAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T10:04:33.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Views\\Room\\Index.cshtml",
+              "RelativeDocumentMoniker": "DacsReborn\\Views\\Room\\Index.cshtml",
+              "ToolTip": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Views\\Room\\Index.cshtml",
+              "RelativeToolTip": "DacsReborn\\Views\\Room\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBZwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T09:35:05.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Views\\Category\\Add.cshtml",
+              "RelativeDocumentMoniker": "DacsReborn\\Views\\Category\\Add.cshtml",
+              "ToolTip": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Views\\Category\\Add.cshtml",
+              "RelativeToolTip": "DacsReborn\\Views\\Category\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T09:33:55.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DacsReborn\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "DacsReborn\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAUwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T09:33:58.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Views\\Category\\Display.cshtml",
+              "RelativeDocumentMoniker": "DacsReborn\\Views\\Category\\Display.cshtml",
+              "ToolTip": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Views\\Category\\Display.cshtml",
+              "RelativeToolTip": "DacsReborn\\Views\\Category\\Display.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAUwBMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T09:33:59.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "DacsReborn\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "DacsReborn\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:05:24.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "DacsReborn\\Controllers\\CategoriesController.cs",
+              "ToolTip": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "DacsReborn\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAADwv0UAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T13:32:02.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "DacsReborn\\Views\\Category\\Index.cshtml",
+              "ToolTip": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "DacsReborn\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAUwFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T09:34:05.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Views\\Category\\Update.cshtml",
+              "RelativeDocumentMoniker": "DacsReborn\\Views\\Category\\Update.cshtml",
+              "ToolTip": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Views\\Category\\Update.cshtml",
+              "RelativeToolTip": "DacsReborn\\Views\\Category\\Update.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAUwCEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T09:46:17.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BookingCart.cs",
+              "DocumentMoniker": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Models\\BookingCart.cs",
+              "RelativeDocumentMoniker": "DacsReborn\\Models\\BookingCart.cs",
+              "ToolTip": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Models\\BookingCart.cs",
+              "RelativeToolTip": "DacsReborn\\Models\\BookingCart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T13:57:06.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Views\\Favorite\\Index.cshtml",
+              "RelativeDocumentMoniker": "DacsReborn\\Views\\Favorite\\Index.cshtml",
+              "ToolTip": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Views\\Favorite\\Index.cshtml",
+              "RelativeToolTip": "DacsReborn\\Views\\Favorite\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAIBZwDwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T09:53:03.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "DacsReborn\\Models\\Booking.cs",
+              "ToolTip": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Models\\Booking.cs",
+              "RelativeToolTip": "DacsReborn\\Models\\Booking.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwBAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T13:46:14.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PaymentFailed.cshtml",
+              "DocumentMoniker": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Views\\Booking\\PaymentFailed.cshtml",
+              "RelativeDocumentMoniker": "DacsReborn\\Views\\Booking\\PaymentFailed.cshtml",
+              "ToolTip": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Views\\Booking\\PaymentFailed.cshtml",
+              "RelativeToolTip": "DacsReborn\\Views\\Booking\\PaymentFailed.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T14:47:06.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BookingItem.cs",
+              "DocumentMoniker": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Models\\BookingItem.cs",
+              "RelativeDocumentMoniker": "DacsReborn\\Models\\BookingItem.cs",
+              "ToolTip": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Models\\BookingItem.cs",
+              "RelativeToolTip": "DacsReborn\\Models\\BookingItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T13:46:09.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Views\\Room\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DacsReborn\\Views\\Room\\Delete.cshtml",
+              "ToolTip": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Views\\Room\\Delete.cshtml",
+              "RelativeToolTip": "DacsReborn\\Views\\Room\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T09:34:55.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DacsReborn\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DacsReborn\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T11:06:03.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BookingDetail.cs",
+              "DocumentMoniker": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Models\\BookingDetail.cs",
+              "RelativeDocumentMoniker": "DacsReborn\\Models\\BookingDetail.cs",
+              "ToolTip": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Models\\BookingDetail.cs",
+              "RelativeToolTip": "DacsReborn\\Models\\BookingDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T13:46:05.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "DacsReborn\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "DacsReborn\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T08:45:39.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DacsReborn\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DacsReborn\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T07:36:30.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "site.css",
+              "DocumentMoniker": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "DacsReborn\\wwwroot\\css\\site.css",
+              "ToolTip": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "DacsReborn\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAALACAAAAAAAAAIBZwPgCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-25T11:01:20.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EFRoomRepository.cs",
+              "DocumentMoniker": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Repository\\EFRoomRepository.cs",
+              "RelativeDocumentMoniker": "DacsReborn\\Repository\\EFRoomRepository.cs",
+              "ToolTip": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Repository\\EFRoomRepository.cs",
+              "RelativeToolTip": "DacsReborn\\Repository\\EFRoomRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T08:06:37.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IRoomRepository.cs",
+              "DocumentMoniker": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Repository\\IRoomRepository.cs",
+              "RelativeDocumentMoniker": "DacsReborn\\Repository\\IRoomRepository.cs",
+              "ToolTip": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Repository\\IRoomRepository.cs",
+              "RelativeToolTip": "DacsReborn\\Repository\\IRoomRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T13:13:45.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Areas\\Admin\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "DacsReborn\\Areas\\Admin\\Controllers\\RoomController.cs",
+              "ToolTip": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Areas\\Admin\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "DacsReborn\\Areas\\Admin\\Controllers\\RoomController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T13:08:58.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Repository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "DacsReborn\\Repository\\ICategoryRepository.cs",
+              "ToolTip": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Repository\\ICategoryRepository.cs",
+              "RelativeToolTip": "DacsReborn\\Repository\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T13:13:41.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "DacsReborn\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "DacsReborn\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T11:12:37.665Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

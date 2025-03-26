@@ -1,0 +1,141 @@
+﻿@model DacsReborn.Models.BookingCart
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ĐƠN ĐẶT PHÒNG CỦA BẠN</title>
+    <style>
+        /* Reset CSS */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        /* Body styles */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa;
+            line-height: 1.6;
+            padding: 20px;
+        }
+
+        /* Table styles */
+        table {
+            width: 100%;
+            margin-bottom: 20px;
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        /* Image styles */
+        img {
+            max-width: 100px;
+            height: auto;
+            display: block;
+            margin: 0 auto;
+        }
+
+        /* Action button styles */
+        .action-button {
+            background-color: #dc3545;
+            color: white;
+            border: none;
+            padding: 8px 12px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        .action-button:hover {
+            background-color: #c82333;
+        }
+
+        /* Header and general text styles */
+        h2, p {
+            margin-bottom: 10px;
+        }
+
+        /* Responsive adjustments */
+       
+    </style>
+</head>
+<body>
+    <h2>Giỏ hàng của bạn</h2>
+    <a asp-action="CheckOut" class="action-button">Cổng thanh toán</a>
+    @if (Model != null && Model.Items.Any())
+    {
+        <table>
+            <thead>
+                <tr>
+                    <th>Room</th>
+                    <th>Description</th>
+                    <th>Image</th>
+                    <th>CheckIn</th>
+                    <th>CheckOut</th>
+                    <th>Price/day</th>
+                    <th>Total Price</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.Items)
+                {
+                    <tr>
+                        <td>@item.Name</td>
+                        <td>@item.Description</td>
+                        <td>
+                            @if (!string.IsNullOrEmpty(item.ImageUrl))
+                            {
+                                <img src="@item.ImageUrl" alt="Item Image" />
+                            }
+                            else
+                            {
+                                <span>No image available</span>
+                            }
+                        </td>
+                        <td>@item.CheckIn.ToString("dd/MM/yyyy")</td>
+                        <td>@item.CheckOut.ToString("dd/MM/yyyy")</td>
+                        <td>@item.Price.ToString("N0") VNĐ</td>
+                        <td>@CalculateTotalPrice(item.CheckIn, item.CheckOut, item.Price).ToString("N0") VNĐ</td>
+                        <td>
+                            <form asp-action="RemoveFromCart" method="post">
+                                <input type="hidden" name="roomId" value="@item.Id" />
+                                <input type="hidden" name="checkIn" value="@item.CheckIn.ToString("yyyy-MM-ddTHH:mm:ss")" />
+                                <input type="hidden" name="checkOut" value="@item.CheckOut.ToString("yyyy-MM-ddTHH:mm:ss")" />
+                                <button class="action-button" type="submit">Remove</button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p>BẠN CHƯA CHỌN PHÒNG.</p>
+    }
+
+    @functions {
+        public decimal CalculateTotalPrice(DateTime checkIn, DateTime checkOut, decimal price)
+        {
+            TimeSpan duration = checkOut.Date - checkIn.Date;
+            int numberOfDays = duration.Days;
+            return price * numberOfDays;
+        }
+    }
+</body>
+</html>

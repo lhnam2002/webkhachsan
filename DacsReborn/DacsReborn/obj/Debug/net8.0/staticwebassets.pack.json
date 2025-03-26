@@ -1,0 +1,677 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DacsReborn.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DacsReborn.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\BackGround\\BackGround01.jpg",
+      "PackagePath": "staticwebassets\\images\\BackGround\\BackGround01.jpg"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\BackGround\\BackGround1.jpg",
+      "PackagePath": "staticwebassets\\images\\BackGround\\BackGround1.jpg"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\BackGround\\BackGround2.jpg",
+      "PackagePath": "staticwebassets\\images\\BackGround\\BackGround2.jpg"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\BackGround\\BackGround3.jpg",
+      "PackagePath": "staticwebassets\\images\\BackGround\\BackGround3.jpg"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\BackGround\\BackGround4.jpg",
+      "PackagePath": "staticwebassets\\images\\BackGround\\BackGround4.jpg"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\BackGround\\BackGround5.jpg",
+      "PackagePath": "staticwebassets\\images\\BackGround\\BackGround5.jpg"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\BackGround\\bg1.jpg",
+      "PackagePath": "staticwebassets\\images\\BackGround\\bg1.jpg"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\BackGround\\bg2.jpg",
+      "PackagePath": "staticwebassets\\images\\BackGround\\bg2.jpg"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\BackGround\\bg3.jpg",
+      "PackagePath": "staticwebassets\\images\\BackGround\\bg3.jpg"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\BackGround\\bg4.jpg",
+      "PackagePath": "staticwebassets\\images\\BackGround\\bg4.jpg"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\BackGround\\bg5.jpg",
+      "PackagePath": "staticwebassets\\images\\BackGround\\bg5.jpg"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\BackGround\\bgblog.jpg",
+      "PackagePath": "staticwebassets\\images\\BackGround\\bgblog.jpg"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\BackGround\\header.jpg",
+      "PackagePath": "staticwebassets\\images\\BackGround\\header.jpg"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\BackGround\\header1.jpg",
+      "PackagePath": "staticwebassets\\images\\BackGround\\header1.jpg"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\Room\\A100New.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\A100New.jpg"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\Room\\A202.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\A202.jpg"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\Room\\A222.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\A222.jpg"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\Room\\B100.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\B100.jpg"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\Room\\B300 - Copy.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\B300 - Copy.jpg"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\Room\\B300.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\B300.jpg"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\Room\\B345jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\B345jpg.jpg"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\Room\\Can-ho-khach-san-PQUC-1024x586.png",
+      "PackagePath": "staticwebassets\\images\\Room\\Can-ho-khach-san-PQUC-1024x586.png"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\Room\\Hb100.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\Hb100.jpg"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\Room\\khach-san-da-lat.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\khach-san-da-lat.jpg"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\Room\\thiet-ke-noi-that-biet-thu-sang-trong-anh-thuan-hai-duong-7.jpg",
+      "PackagePath": "staticwebassets\\images\\Room\\thiet-ke-noi-that-biet-thu-sang-trong-anh-thuan-hai-duong-7.jpg"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\banner-1.png",
+      "PackagePath": "staticwebassets\\images\\banner-1.png"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\logotren.png",
+      "PackagePath": "staticwebassets\\images\\logotren.png"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\products\\1721_sleeky_kh____m__i_body_500ml.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\1721_sleeky_kh____m__i_body_500ml.jpg"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\products\\2138_RoyalCanin-ClubProAdult20kg.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\2138_RoyalCanin-ClubProAdult20kg.jpg"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\products\\2577_tui_pet_phi_hanh_gia_pet_city2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\2577_tui_pet_phi_hanh_gia_pet_city2.jpg"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\products\\2577_tui_pet_phi_hanh_gia_pet_city3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\2577_tui_pet_phi_hanh_gia_pet_city3.jpg"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\products\\2577_tui_pet_phi_hanh_gia_petcity_1_.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\2577_tui_pet_phi_hanh_gia_petcity_1_.jpg"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\products\\2953_cay_meo_leo_afp_nature_cozy_petcity_1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\2953_cay_meo_leo_afp_nature_cozy_petcity_1.jpg"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\products\\303_qua_dau.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\303_qua_dau.jpg"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\products\\3152_chic_cham_dau_tam_cam_petcity.png",
+      "PackagePath": "staticwebassets\\images\\products\\3152_chic_cham_dau_tam_cam_petcity.png"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\products\\3153_chic_cham_dau_tam_do_petcity.png",
+      "PackagePath": "staticwebassets\\images\\products\\3153_chic_cham_dau_tam_do_petcity.png"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\products\\3288_ao_t_ao_lien_quan_petcity_1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\3288_ao_t_ao_lien_quan_petcity_1.jpg"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\products\\3288_ao_t_ao_lien_quan_petcity_2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\3288_ao_t_ao_lien_quan_petcity_2.jpg"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\products\\3288_ao_t_ao_lien_quan_petcity_3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\3288_ao_t_ao_lien_quan_petcity_3.jpg"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\products\\3392_khay_ve_sinh_cho_cho_xanh_petcity_1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\3392_khay_ve_sinh_cho_cho_xanh_petcity_1.jpg"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\products\\3409_makar_toilet_cat_kakao_petcity.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\3409_makar_toilet_cat_kakao_petcity.jpg"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\products\\496_2_1376385268_maysaycs2400.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\496_2_1376385268_maysaycs2400.jpg"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\products\\996_furminator_cho_trung_long_dai_petcity.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\996_furminator_cho_trung_long_dai_petcity.jpg"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\products\\Capture.JPG",
+      "PackagePath": "staticwebassets\\images\\products\\Capture.JPG"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\products\\Capture.png",
+      "PackagePath": "staticwebassets\\images\\products\\Capture.png"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\products\\DaNang.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\DaNang.jpg"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\products\\default-img.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\default-img.jpg"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\sliders\\slider-1.png",
+      "PackagePath": "staticwebassets\\images\\sliders\\slider-1.png"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\sliders\\slider-2.png",
+      "PackagePath": "staticwebassets\\images\\sliders\\slider-2.png"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\sliders\\slider-3.png",
+      "PackagePath": "staticwebassets\\images\\sliders\\slider-3.png"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\images\\sliders\\slider-4.png",
+      "PackagePath": "staticwebassets\\images\\sliders\\slider-4.png"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\vendor\\font-awesome\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\vendor\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\vendor\\font-awesome\\css\\font-awesome.css.map",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\css\\font-awesome.css.map"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\vendor\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\vendor\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\vendor\\font-awesome\\less\\animated.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\animated.less"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\vendor\\font-awesome\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\vendor\\font-awesome\\less\\core.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\core.less"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\vendor\\font-awesome\\less\\extras.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\extras.less"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\vendor\\font-awesome\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\fixed-width.less"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\vendor\\font-awesome\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\font-awesome.less"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\vendor\\font-awesome\\less\\icons.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\icons.less"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\vendor\\font-awesome\\less\\larger.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\larger.less"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\vendor\\font-awesome\\less\\list.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\list.less"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\vendor\\font-awesome\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\mixins.less"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\vendor\\font-awesome\\less\\path.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\path.less"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\vendor\\font-awesome\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\vendor\\font-awesome\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\screen-reader.less"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\vendor\\font-awesome\\less\\spinning.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\spinning.less"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\vendor\\font-awesome\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\stacked.less"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\vendor\\font-awesome\\less\\variables.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\variables.less"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\vendor\\font-awesome\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_animated.scss"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\vendor\\font-awesome\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\vendor\\font-awesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\vendor\\font-awesome\\scss\\_extras.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_extras.scss"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\vendor\\font-awesome\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\vendor\\font-awesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\vendor\\font-awesome\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_larger.scss"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\vendor\\font-awesome\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_list.scss"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\vendor\\font-awesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\vendor\\font-awesome\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_path.scss"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\vendor\\font-awesome\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\vendor\\font-awesome\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\vendor\\font-awesome\\scss\\_spinning.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_spinning.scss"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\vendor\\font-awesome\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\vendor\\font-awesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "E:\\DoAnCoSo\\DacsReborn\\fileSuaDk\\DacsReborn\\DacsReborn\\wwwroot\\vendor\\font-awesome\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DacsReborn.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DacsReborn.props",
+      "PackagePath": "build\\DacsReborn.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DacsReborn.props",
+      "PackagePath": "buildMultiTargeting\\DacsReborn.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DacsReborn.props",
+      "PackagePath": "buildTransitive\\DacsReborn.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

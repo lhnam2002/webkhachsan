@@ -1,0 +1,58 @@
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-c7mkx5m1rx] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-c7mkx5m1rx] {
+  color: #0077cc;
+}
+
+.btn-primary[b-c7mkx5m1rx] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-c7mkx5m1rx], .nav-pills .show > .nav-link[b-c7mkx5m1rx] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-c7mkx5m1rx] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-c7mkx5m1rx] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-c7mkx5m1rx] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-c7mkx5m1rx] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-c7mkx5m1rx] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+
+.d-flex > div[b-c7mkx5m1rx] { /* Target the divs within the form */
+    display: flex; /* Make the divs flex containers */
+    align-items: center; /* Align items to the center */
+    margin-right: 1rem; /* Add spacing between divs */
+}
+
+.d-flex > div:last-child[b-c7mkx5m1rx] { /* Target the last div */
+    margin-right: 0; /* Remove margin from the last div */
+}

@@ -1,0 +1,74 @@
+﻿@model Favorite
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Wishlist</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            padding: 10px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        img {
+            max-width: 100px;
+            height: auto;
+        }
+
+        .action-button {
+            background-color: #dc3545;
+            color: white;
+            border: none;
+            padding: 5px 10px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+            .action-button:hover {
+                background-color: #c82333;
+            }
+    </style>
+</head>
+<body>
+    <h2>Your Wishlist</h2>
+    <table>
+        <tr>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Description</th>
+            <th>Image</th>
+            <th>Category</th>
+            <th>Action</th>
+        </tr>
+        @foreach (var item in Model.Items)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Price</td>
+                <td>@item.Description</td>
+                <td>
+                    <img src="@item.ImageUrl" alt="Item Image" />
+                </td>
+                <td>@item.Category</td>
+                <td>
+                    <form asp-action="RemoveFromCart" asp-route-roomId="@item.RoomId">
+                        <button class="action-button" type="submit">Remove</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </table>
+</body>
+</html>
